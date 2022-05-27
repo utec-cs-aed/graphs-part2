@@ -17,7 +17,7 @@
 * Implementar todos los algoritmos de búsqueda vistos en clase (Graph/Algorithms) para ambos tipos de grafos
 * Proponer ejemplos de prueba
 
-### Ejemplo de uso del algoritmo de busqueda:
+### Ejemplo de uso del algoritmo de búsqueda:
 ```cpp
 //Given the graph
 DirectedGraph<char, int> graph;
