@@ -9,14 +9,13 @@
 
 ----
 
-## Graph data structure
-
 * El grafo debe ser dinámico (inserciones. eliminaciones, búsquedas, ...)
 * Se debe implementar los dos tipos de grafos: dirigidos y no-dirigidos.
 * No considerar loops ni multi-arista. 
+* Implementar todos los algoritmos de búsqueda vistos en clase (Graph/Algorithms)
 
 
-### Algorithms (example):
+### Ejemplo de uso del algoritmo de busqueda:
 ```cpp
 //Given the graph
 DirectedGraph<char, int> graph;
