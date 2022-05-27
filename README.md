@@ -1,5 +1,4 @@
-# Algoritmos y Estructura de Datos
-## Grafos
+# Grafos Parte 2: Algoritmos de Búsqueda
 --------
 
 ## Integrantes
